@@ -1,0 +1,19 @@
+@font-face {
+  font-family: Cyberverse;
+  src: url(./assets/Cyberverse.otf);
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background-color: black;
+  color: turquoise;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.clock-div {
+  font-size: 5rem;
+  font-family: Cyberverse, sans-serif;
+}
